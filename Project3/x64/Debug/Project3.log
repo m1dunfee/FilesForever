@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Matthew\source\repos\Project3\Project3\main.cpp(29,6): warning C4101: 'currNum': unreferenced local variable
+  Project3.vcxproj -> C:\Users\Matthew\source\repos\Project3\x64\Debug\Project3.exe
